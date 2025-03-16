@@ -1,0 +1,5 @@
+4
+The quick brown fox jumps over the lazy dog.
+Le rapide renard brun saute par-dessus le chien paresseux.
+This is a test.
+C'est une épreuve.
